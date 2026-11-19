@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:312E81,100:0891B2&height=220&section=header&text=Fossil&fontSize=72&fontColor=F8FAFC&fontAlignY=36&desc=AUTOMATION%20%2F%20INFRASTRUCTURE%20%2F%20EMBEDDED&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Fossil — Automation, Infrastructure, Embedded">
+<img src="./assets/profile-header.svg" width="100%" alt="Fossil — Automation, Infrastructure, Software">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=720&lines=PowerShell+%26+Azure+CLI;Python+%26+Infrastructure+as+Code;C%23+%26+Embedded+Systems" alt="PowerShell and Azure CLI; Python and Infrastructure as Code; C# and embedded systems">
 
@@ -109,6 +109,6 @@ Project cards update with repository details. Each project is linked to its sour
 
 [Connect on GitHub](https://github.com/jeromedontdev)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:312E81,100:111827&height=90&section=footer" width="100%" alt="">
+<img src="./assets/profile-footer.svg" width="100%" alt="Automate, build, connect">
 
 </div>
