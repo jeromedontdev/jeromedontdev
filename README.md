@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Fossil — Automation, Infrastructure, Software">
+<a href="https://github.com/jeromedontdev"><img src="./assets/profile-header.svg" width="100%" alt="Fossil — Automation, Infrastructure, Software"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=720&lines=PowerShell+%26+Azure+CLI;Python+%26+Infrastructure+as+Code;C%23+%26+Embedded+Systems" alt="PowerShell and Azure CLI; Python and Infrastructure as Code; C# and embedded systems">
 
@@ -109,6 +109,6 @@ Project cards update with repository details. Each project is linked to its sour
 
 [Connect on GitHub](https://github.com/jeromedontdev)
 
-<img src="./assets/profile-footer.svg" width="100%" alt="Automate, build, connect">
+<a href="https://github.com/jeromedontdev"><img src="./assets/profile-footer.svg" width="100%" alt="Automate, build, connect"></a>
 
 </div>
