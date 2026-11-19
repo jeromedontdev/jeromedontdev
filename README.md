@@ -1,96 +1,100 @@
 <div align="center">
 
-# Fossil
-### Firmware & Embedded Software
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:312E81,100:0891B2&height=220&section=header&text=Fossil&fontSize=72&fontColor=F8FAFC&fontAlignY=36&desc=AUTOMATION%20%2F%20INFRASTRUCTURE%20%2F%20EMBEDDED&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Fossil — Automation, Infrastructure, Embedded">
 
-**PowerShell · Infrastructure as Code · C / C++ · ESP32 · Python**  
-Infrastructure automation · embedded systems · device firmware · developer tools
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=720&lines=PowerShell+%26+Infrastructure+as+Code;Embedded+systems+%26+ESP32+firmware;Automation+from+infrastructure+to+devices" alt="PowerShell and infrastructure as code; embedded systems and ESP32 firmware; automation from infrastructure to devices">
 
-[![GitHub](https://img.shields.io/badge/GitHub-jeromedontdev-181717?style=flat-square&logo=github)](https://github.com/jeromedontdev)
+### Building useful things, from infrastructure to devices.
+
+[![PowerShell](https://img.shields.io/badge/PowerShell-Automation-2671BE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/jeromedontdev)
+[![IaC](https://img.shields.io/badge/Infrastructure_as_Code-IaC-7C3AED?style=for-the-badge)](https://github.com/jeromedontdev)
+[![C and C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-Embedded-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/jeromedontdev)
+[![Python](https://img.shields.io/badge/Python-Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jeromedontdev)
 
 </div>
 
----
+## What I bring
 
-My strengths span infrastructure automation and embedded software—from PowerShell and Infrastructure as Code to ESP32 firmware, connected features, on-device interfaces, and cross-platform tools.
+I work across **infrastructure automation** and **embedded engineering**: scripting and infrastructure as code on one end, connected ESP32 devices and firmware on the other. I enjoy turning complex systems into tools and experiences people can actually use.
 
-## What I work on
+| Focus | What that looks like |
+|:--|:--|
+| **PowerShell & automation** | Repeatable workflows, practical scripting, and operational tooling |
+| **Infrastructure as Code** | Declarative infrastructure and automation; public examples are coming soon |
+| **Embedded systems** | C/C++ firmware for ESP32 with ESP-IDF, Arduino, and PlatformIO |
+| **Connected devices** | USB HID, BLE, Wi-Fi, Ethernet, OTA updates, and device interfaces |
+| **Product thinking** | Prototypes developed into documented, testable projects and releases |
 
-- **Infrastructure automation:** PowerShell scripting and Infrastructure as Code tooling; public examples are coming soon.
-- **Embedded firmware:** C/C++ for ESP32, using ESP-IDF, Arduino, and PlatformIO.
-- **Hardware integration:** Displays and touch, USB HID, BLE, Wi-Fi, Ethernet, storage, and device-specific peripherals.
-- **Interfaces and tooling:** LVGL device UIs, browser-based setup and update flows, hardware test tools, and desktop utilities.
-- **End-to-end delivery:** Taking projects from a working prototype through testing, documentation, and releases.
+## Selected work
 
-## Selected projects
-
-Eight projects that show the range of my work:
+Project cards update with repository details. Each project is linked to its source.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/Spidarium">Spidarium</a></strong><br>
-A virtual jumping-spider vivarium for an ESP32-S3 AMOLED. Combines an LVGL touch UI, persistent simulation, a web flasher, and a browser simulator.<br><br>
-<sub>C · ESP-IDF · LVGL · ESP32-S3</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/Spidarium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=Spidarium&theme=tokyonight&hide_border=true" alt="Spidarium repository card" width="100%"></a><br>
+<sub>ESP32-S3 AMOLED · LVGL · persistent virtual pet · web flasher and simulator</sub>
 </td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/pocket-tank-cyd">Pocket Tank CYD</a></strong><br>
-Grew a display-based aquarium game into a broader experience with shared aquariums, fish genetics, story adventures, RPG elements, and 18 mini-games.<br><br>
-<sub>C · ESP32 · LCD · Touch</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/pocket-tank-cyd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=pocket-tank-cyd&theme=tokyonight&hide_border=true" alt="Pocket Tank CYD repository card" width="100%"></a><br>
+<sub>ESP32 aquarium game · fish genetics · story adventures · 18 mini-games</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/ESP32S3-USB-KB_Mouse-To-BLE">USB Keyboard &amp; Mouse to BLE</a></strong><br>
-Connects USB HID keyboard and mouse input to BLE HID, with multiple paired-device profiles and saved pairing state.<br><br>
-<sub>C++ · ESP32-S3 · USB · BLE</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/ESP32S3-USB-KB_Mouse-To-BLE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=ESP32S3-USB-KB_Mouse-To-BLE&theme=tokyonight&hide_border=true" alt="USB Keyboard and Mouse to BLE repository card" width="100%"></a><br>
+<sub>USB HID to BLE HID · multiple paired-device profiles</sub>
 </td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/esp32-s3-4848s040-test-suite">ESP32-S3 Board Test Suite</a></strong><br>
-Interactive self-test firmware with an LVGL interface for exercising and visually checking peripherals on a 4-inch ESP32-S3 panel.<br><br>
-<sub>C · ESP-IDF · LVGL · Hardware testing</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/esp32-s3-4848s040-test-suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=esp32-s3-4848s040-test-suite&theme=tokyonight&hide_border=true" alt="ESP32-S3 board test suite repository card" width="100%"></a><br>
+<sub>Interactive ESP32-S3 hardware diagnostics · LVGL · ESP-IDF</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/wol-esp32-s3">LAN Tortoise</a></strong><br>
-An ESP32-S3 network monitor and host power manager with a web UI, Wake-on-LAN, SSH shutdown, Wi-Fi/Ethernet, OTA updates, and MQTT notifications.<br><br>
-<sub>C++ · ESP32-S3 · Networking · OTA</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/wol-esp32-s3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=wol-esp32-s3&theme=tokyonight&hide_border=true" alt="LAN Tortoise repository card" width="100%"></a><br>
+<sub>Network monitor · Wake-on-LAN and SSH · Ethernet · OTA · MQTT</sub>
 </td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/waveshare154_ereader">Waveshare ePaper Reader</a></strong><br>
-An ESP32-S3 reader that loads EPUB text from microSD, saves reading progress, and supports touch controls plus a browser-based file manager.<br><br>
-<sub>C++ · ESP32-S3 · ePaper · microSD</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/waveshare154_ereader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=waveshare154_ereader&theme=tokyonight&hide_border=true" alt="Waveshare ePaper reader repository card" width="100%"></a><br>
+<sub>ESP32-S3 ePaper reader · EPUB · microSD · touch · web file manager</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/tinkup">Tinkup</a></strong><br>
-A multiplatform GUI utility for updating firmware on the RetroTINK family of retro gaming devices.<br><br>
-<sub>Python · Desktop tooling</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/tinkup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=tinkup&theme=tokyonight&hide_border=true" alt="Tinkup repository card" width="100%"></a><br>
+<sub>Cross-platform Python GUI for RetroTINK firmware updates</sub>
 </td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/jeromedontdev/DragonInjector-FW">DragonInjector Firmware</a></strong><br>
-Firmware source and releases for the DragonInjector project, extending my work across embedded firmware and device tooling.<br><br>
-<sub>C · Firmware</sub>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/DragonInjector-FW"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=DragonInjector-FW&theme=tokyonight&hide_border=true" alt="DragonInjector firmware repository card" width="100%"></a><br>
+<sub>Embedded firmware source and releases</sub>
 </td>
 </tr>
 </table>
 
-[Explore all repositories →](https://github.com/jeromedontdev?tab=repositories)
-
-## Languages & activity
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeromedontdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub activity stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromedontdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165">
+
+[**Explore all repositories →**](https://github.com/jeromedontdev?tab=repositories)
+
 </div>
 
----
+## Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeromedontdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Live GitHub statistics" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromedontdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages from public repositories" height="170">
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeromedontdev&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
+</div>
 
 <div align="center">
 
-Interested in embedded systems, device software, or a project collaboration?  
-[Get in touch through GitHub](https://github.com/jeromedontdev).
+### Open to interesting problems and collaborations.
+
+[Connect on GitHub](https://github.com/jeromedontdev)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:312E81,100:111827&height=90&section=footer" width="100%" alt="">
 
 </div>
