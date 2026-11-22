@@ -63,7 +63,7 @@ Project cards update with repository details. Each project is linked to its sour
 <tbody>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/wol-esp32-s3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=wol-esp32-s3&theme=tokyonight&hide_border=true" alt="LAN Tortoise repository card" width="100%"></a>
+<a href="https://github.com/jeromedontdev/LanTortoise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=LanTortoise&theme=tokyonight&hide_border=true" alt="LAN Tortoise repository card" width="100%"></a>
 <br><sub>Network monitor · Wake-on-LAN and SSH · Ethernet · OTA · MQTT</sub>
 </td>
 <td width="50%" align="center">
