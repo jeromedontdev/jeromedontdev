@@ -33,45 +33,7 @@ My core toolkit is **PowerShell, Azure CLI, Python, Infrastructure as Code, and 
 
 ## Selected work
 
-Project cards update with repository details. Each project is linked to its source.
-
 <table>
-<tbody>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/Spidarium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=Spidarium&theme=tokyonight&hide_border=true" alt="Spidarium repository card" width="100%"></a>
-<br><sub>ESP32-S3 AMOLED · LVGL · persistent virtual pet · web flasher and simulator</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/pocket-tank-cyd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=pocket-tank-cyd&theme=tokyonight&hide_border=true" alt="Pocket Tank CYD repository card" width="100%"></a>
-<br><sub>ESP32 aquarium game · fish genetics · story adventures · 18 mini-games</sub>
-</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/ESP32S3-USB-KB_Mouse-To-BLE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=ESP32S3-USB-KB_Mouse-To-BLE&theme=tokyonight&hide_border=true" alt="USB Keyboard and Mouse to BLE repository card" width="100%"></a>
-<br><sub>USB HID to BLE HID · multiple paired-device profiles</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/esp32-s3-4848s040-test-suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=esp32-s3-4848s040-test-suite&theme=tokyonight&hide_border=true" alt="ESP32-S3 board test suite repository card" width="100%"></a>
-<br><sub>Interactive ESP32-S3 hardware diagnostics · LVGL · ESP-IDF</sub>
-</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/LanTortoise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=LanTortoise&theme=tokyonight&hide_border=true" alt="LAN Tortoise repository card" width="100%"></a>
-<br><sub>Network monitor · Wake-on-LAN and SSH · Ethernet · OTA · MQTT</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/waveshare154_ereader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=waveshare154_ereader&theme=tokyonight&hide_border=true" alt="Waveshare ePaper reader repository card" width="100%"></a>
-<br><sub>ESP32-S3 ePaper reader · EPUB · microSD · touch · web file manager</sub>
-</td>
-</tr>
-</tbody>
 <tbody>
 <tr>
 <td width="50%" align="center">
@@ -79,8 +41,28 @@ Project cards update with repository details. Each project is linked to its sour
 <br><sub>Wi-Fi macro pad firmware for the Guition ESP32-S3 4-inch touchscreen</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/DragonInjector-Updater"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=DragonInjector-Updater&theme=tokyonight&hide_border=true" alt="DragonInjector Updater repository card" width="100%"></a>
-<br><sub>Firmware updater application for the DragonInjector</sub>
+<a href="https://github.com/jeromedontdev/Spidarium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=Spidarium&theme=tokyonight&hide_border=true" alt="Spidarium repository card" width="100%"></a>
+<br><sub>ESP32-S3 AMOLED · LVGL · persistent virtual pet · web flasher and simulator</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/wol-esp32-s3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=wol-esp32-s3&theme=tokyonight&hide_border=true" alt="LAN Tortoise repository card" width="100%"></a>
+<br><sub>Network monitor · Wake-on-LAN and SSH · Ethernet · OTA · MQTT</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/pocket-tank-cyd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=pocket-tank-cyd&theme=tokyonight&hide_border=true" alt="Pocket Tank CYD repository card" width="100%"></a>
+<br><sub>ESP32 aquarium game · fish genetics · story adventures · 18 mini-games</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/waveshare154_ereader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=waveshare154_ereader&theme=tokyonight&hide_border=true" alt="Waveshare ePaper reader repository card" width="100%"></a>
+<br><sub>ESP32-S3 ePaper reader · EPUB · microSD · touch · web file manager</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/jeromedontdev/esp32-s3-4848s040-test-suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=esp32-s3-4848s040-test-suite&theme=tokyonight&hide_border=true" alt="ESP32-S3 board test suite repository card" width="100%"></a>
+<br><sub>Interactive ESP32-S3 hardware diagnostics · LVGL · ESP-IDF</sub>
 </td>
 </tr>
 </tbody>
