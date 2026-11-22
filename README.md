@@ -75,12 +75,12 @@ Project cards update with repository details. Each project is linked to its sour
 <tbody>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/tinkup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=tinkup&theme=tokyonight&hide_border=true" alt="Tinkup repository card" width="100%"></a>
-<br><sub>Cross-platform Python GUI for RetroTINK firmware updates</sub>
+<a href="https://github.com/jeromedontdev/GooPad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=tinkup&theme=tokyonight&hide_border=true" alt="GooPad repository card" width="100%"></a>
+<br><sub>Wi-Fi macro pad firmware for the Guition ESP32-S3 4-inch touchscreen</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/jeromedontdev/DragonInjector-FW"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=DragonInjector-FW&theme=tokyonight&hide_border=true" alt="DragonInjector firmware repository card" width="100%"></a>
-<br><sub>Embedded firmware source and releases</sub>
+<a href="https://github.com/jeromedontdev/DragonInjector-Updater"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeromedontdev&repo=DragonInjector-FW&theme=tokyonight&hide_border=true" alt="DragonInjector Updater repository card" width="100%"></a>
+<br><sub>Firmware updater application for the DragonInjector</sub>
 </td>
 </tr>
 </tbody>
